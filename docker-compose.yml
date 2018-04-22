@@ -16,3 +16,4 @@ services:
       GRADES_ENTRY: 'grades/'
     ports:
       - '5000:5000'
+      
